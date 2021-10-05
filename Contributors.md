@@ -15805,3 +15805,4 @@
 - [Chris Lewis](https://github.com/Ryu1284)
 - [Sławomir Mendyka](https://github.com/thewilkupl)
 - [ciph3rz](https://github.com/ciph3rz)
+- [Andre DeAsis](https://github.com/An0nym0us-C0d3)
